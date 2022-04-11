@@ -16,7 +16,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Togo.
+Currently, I am doing a training to become Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Togo.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
